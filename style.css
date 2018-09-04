@@ -85,7 +85,5 @@ header.startup h1:hover {
   border-width: 2px;
   transform: scale(1.1);
   cursor: pointer;
+
 }
-form {
-  border: 5px solid white;
-  }
