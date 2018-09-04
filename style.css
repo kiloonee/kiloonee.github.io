@@ -43,7 +43,7 @@ a {
 }
 a:hover{
   color: #10073B;
-  border: 2px solid #10073B;
+  /*border: 2px solid #10073B;*/
   text-decoration: none;
 }
 a:visited {
