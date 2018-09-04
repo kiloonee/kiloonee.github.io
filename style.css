@@ -68,14 +68,18 @@ header.startup h1:hover {
 }
 
 .btn-primary {
-  margin: 0 auto;
-  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  
   background-color: #F05F44;
   border-color: #F05F44; 
   transition: all 1s;
 }
 
 .btn-primary:hover {
+  margin-left: auto;
+  margin-right: auto;
+
   background-color: #540002;
   border-color: #4D9A6A;
   border-width: 2px;
