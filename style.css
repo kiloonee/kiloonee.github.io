@@ -68,6 +68,8 @@ header.startup h1:hover {
 }
 
 .btn-primary {
+  margin: 0 auto;
+  float: left;
   background-color: #F05F44;
   border-color: #F05F44; 
   transition: all 1s;
